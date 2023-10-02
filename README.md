@@ -16,33 +16,55 @@ This Python GUI application allows users to add a watermark to an image. It supp
 - Tkinter
 - Pillow (PIL)
 
-Installation
+<h2 align="center">Execution</h2>
+
 Clone the repository:
 
-bash
-Copy code
+```
 git clone https://github.com/your-username/your-repo.git
+```
+
 Install the required packages:
 
-bash
-Copy code
-pip install pillow
+- Linux
+  
+```
+  pip install -r requirements.txt
+  # OR
+  python -m pip install pillow tk
+  # OR
+  pip install pillow tk
+```
+
+- Windows
+
+```
+  py -m pip install -r requirements.txt
+  # OR
+  py -m pip install pillow tk
+```
+
 Run the application:
 
-bash
-Copy code
+```
 python main.py
-Usage
-Launch the application.
-Enter the path to the image you want to watermark.
-Enter the path to the logo you want to insert.
-Click the "Browser" buttons to select files.
-Click the "Watermark" button to apply the watermark.
-A new window will open displaying the watermarked image.
-Close the window when you're done.
-Screenshots
+```
+
+<h2 align="center">Usage</h2>
+
+- Launch the application.
+- Enter the path to the image you want to watermark.
+- Enter the path to the logo you want to insert.
+- Click the "Browser" buttons to select files (when you don't know what image/logo path).
+- Click the "Watermark" button to apply the watermark.
+- A new window will open displaying the watermarked image.
+- Close the window when you're done.
+
+<h2 align="center">Screenshots</h2>
+
 Screenshot
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+<h2 align="center">License</h2>
+
+This project is licensed under the MIT License - see the []() file for details.
 
