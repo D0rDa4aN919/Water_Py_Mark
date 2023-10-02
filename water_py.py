@@ -94,7 +94,7 @@ class Display(tk.Tk):
                                        command=lambda x=self.image: self.browser(x))
         self.image_browser.grid(row=1, column=2, sticky="nsew", padx=10, pady=10)
         # the text of the entering logo
-        self.logo_title = tk.Label(self, text="Enter image to insert to: ", font=("Arial", 20, "bold"), bg="#CBFF6A")
+        self.logo_title = tk.Label(self, text="Enter logo to insert to: ", font=("Arial", 20, "bold"), bg="#CBFF6A")
         self.logo_title.grid(row=2, column=0, sticky="nsew", padx=10, pady=10)
         # the text input of the entering logo
         self.logo_image = tk.Entry(self, bg="#CBFF6A", width=50, background="white", highlightthickness=2)
