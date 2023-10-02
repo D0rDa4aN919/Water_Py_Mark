@@ -1,6 +1,6 @@
 <h1 align="center">Water Py Mark</h1>
 
-<h1 align="center">Description</h1>
+<h2 align="center">Description</h2>
 
 This Python GUI application allows users to add a watermark to an image. It supports inserting a logo into an image.
 
