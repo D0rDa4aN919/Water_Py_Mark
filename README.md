@@ -1,4 +1,4 @@
-<h1 align-text="center">Water Py Mark</h1>
+<h1 align="center">Water Py Mark</h1>
 
 Description
 This Python GUI application allows users to add a watermark to an image. It supports inserting a logo into an image with various customization options.
@@ -8,9 +8,11 @@ Logo Positioning: The software intelligently positions the logo in the bottom-ri
 Image Resizing: Both the image and the logo are resized to ensure a proper fit and visual appeal.
 User-Friendly Interface: Simple and intuitive GUI for easy usage.
 Requirements
-Python 3.x
-Tkinter
-Pillow (PIL)
+
+- Python 3.x
+- Tkinter
+- Pillow (PIL)
+
 Installation
 Clone the repository:
 
