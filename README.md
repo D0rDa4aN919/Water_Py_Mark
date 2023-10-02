@@ -4,11 +4,13 @@
 
 This Python GUI application allows users to add a watermark to an image. It supports inserting a logo into an image.
 
-Features
-Logo Positioning: The software intelligently positions the logo in the bottom-right corner to ensure it fits inside the image.
-Image Resizing: Both the image and the logo are resized to ensure a proper fit and visual appeal.
-User-Friendly Interface: Simple and intuitive GUI for easy usage.
-Requirements
+<h2 align="center">Features</h2>
+
+- Logo Positioning: The software intelligently positions the logo in the bottom-right corner to ensure it fits inside the image.
+- Image Resizing: Both the image and the logo are resized to ensure a proper fit and visual appeal.
+- User-Friendly Interface: Simple and intuitive GUI for easy usage.
+
+<h2 align="center">Requirements</h2>
 
 - Python 3.x
 - Tkinter
