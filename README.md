@@ -37,10 +37,7 @@ git clone https://github.com/your-username/your-repo.git
       python -m pip install pillow tk
       # OR
       pip install pillow tk
-      ######### Windows #########
-      py -m pip install -r requirements.txt
-      # OR
-      py -m pip install pillow tk
+
     ```
 
 
@@ -48,7 +45,10 @@ git clone https://github.com/your-username/your-repo.git
     
 
     ```
-
+      ######### Windows #########
+      py -m pip install -r requirements.txt
+      # OR
+      py -m pip install pillow tk
     ```
 
 - Run the application:
