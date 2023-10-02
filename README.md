@@ -26,7 +26,9 @@ git clone https://github.com/your-username/your-repo.git
 
 - Install the required packages:
 
+
   - Linux
+
   
 ```
   pip install -r requirements.txt
@@ -36,7 +38,9 @@ git clone https://github.com/your-username/your-repo.git
   pip install pillow tk
 ```
 
+
   - Windows
+
 
 ```
   py -m pip install -r requirements.txt
