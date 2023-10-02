@@ -21,7 +21,7 @@ This Python GUI application allows users to add a watermark to an image. It supp
 - Clone the repository:
 
 ```
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/D0rDa4aN919/Water_Py_Mark.git
 ```
 
 - Install the required packages:
