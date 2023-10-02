@@ -54,7 +54,7 @@ git clone https://github.com/D0rDa4aN919/Water_Py_Mark.git
 - Run the application:
 
 ```
-python main.py
+python water_py.py
 ```
 
 <h2 align="center">Usage</h2>
