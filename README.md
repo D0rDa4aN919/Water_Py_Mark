@@ -18,15 +18,15 @@ This Python GUI application allows users to add a watermark to an image. It supp
 
 <h2 align="center">Execution</h2>
 
-Clone the repository:
+- Clone the repository:
 
 ```
 git clone https://github.com/your-username/your-repo.git
 ```
 
-Install the required packages:
+- Install the required packages:
 
-- Linux
+  - Linux
   
 ```
   pip install -r requirements.txt
@@ -36,7 +36,7 @@ Install the required packages:
   pip install pillow tk
 ```
 
-- Windows
+  - Windows
 
 ```
   py -m pip install -r requirements.txt
@@ -44,7 +44,7 @@ Install the required packages:
   py -m pip install pillow tk
 ```
 
-Run the application:
+- Run the application:
 
 ```
 python main.py
