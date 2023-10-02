@@ -67,11 +67,14 @@ python water_py.py
 - A new window will open displaying the watermarked image.
 - Close the window when you're done.
 
-<h2 align="center">Screenshots</h2>
+<h2 align="center">Images</h2>
 
-Screenshot
+![Water-mark screen shoot](pics/screen_shoot_water_mark_py.jpg)
 
 <h2 align="center">License</h2>
 
-This project is licensed under the MIT License - see the []() file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+<h2 align="center">Author</h2>
+
+- [D0rDa4aN919](https://github.com/D0rDa4aN919)
